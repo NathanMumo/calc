@@ -1,0 +1,16 @@
+# calc
+<!DOCTYPE html>
+
+      <html>
+        <head>
+
+          <title>Calculator</title>
+
+        </head>
+        <body>
+          <h1>Calculator</h1>
+      <script src="js/calc.js"></script>
+
+
+        </body>
+      </html>
